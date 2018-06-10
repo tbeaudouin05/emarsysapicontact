@@ -1,0 +1,6 @@
+*.yaml
+*.exe
+*.csv
+*.xlsx
+*.txt
+log/
